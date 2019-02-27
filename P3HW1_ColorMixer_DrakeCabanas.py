@@ -1,5 +1,6 @@
 # Calculating secondary colors from primary color combinations
-# CTI-110 P3HW1 - Color Mixer
+# CTI-110 
+# P3HW1 - Color Mixer
 # Drake Cabanas
 # February 26, 2019
 
